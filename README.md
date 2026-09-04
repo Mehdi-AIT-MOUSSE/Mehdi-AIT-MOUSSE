@@ -48,15 +48,18 @@ I am a developer and current student at 1337 (42 Network), passionate about clea
 
 <div align="center">
 <h2 style="color:white;">Reach Me</h2>
- 
 <a href="mailto:mehdiaitmousse1337@gmail.com" target="_blank" style="margin-right:10px;">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
 <a href="https://www.linkedin.com/in/mehdi-ait-mousse/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
+<div style="margin-top:20px">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mait-mou" alt="mait-mou's 42 stats" /></a>
+</div>
 
 </div>
+
 
 
 
